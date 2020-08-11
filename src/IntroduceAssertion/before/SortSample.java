@@ -16,9 +16,11 @@ public class SortSample {
 					m = y;
 				}
 			}
+			// ここで_data[m]は_data[x]～_data[_data.length - 1]の最小値のはず
 			int v = _data[m];
 			_data[m] = _data[x];
 			_data[x] = v;
+			// ここで_data[0]～_data[x + 1]はソート済みのはず
 		}
 	}
 
