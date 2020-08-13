@@ -1,0 +1,5 @@
+#
+#Thu Aug 13 12:05:18 JST 2020
+Hiroshi\ Yuki=hyuki@example.com
+Tomura=tomura@example.com
+Hanako\ Sato=hanako@example.com
